@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsip-frontend/static/css/main.cf890fdb.css",
-    "main.js": "/gsip-frontend/static/js/main.350e1e78.js",
+    "main.js": "/gsip-frontend/static/js/main.ae8e1167.js",
     "static/js/453.c16d9605.chunk.js": "/gsip-frontend/static/js/453.c16d9605.chunk.js",
     "static/media/dhruvin.png": "/gsip-frontend/static/media/dhruvin.2007897df0f3a26c5faf.png",
     "static/media/diya.png": "/gsip-frontend/static/media/diya.bd95beae276d24e5f936.png",
@@ -16,11 +16,11 @@
     "static/media/linkedin.svg": "/gsip-frontend/static/media/linkedin.9e52cf326e0bbf3cd9a3378906c0d35c.svg",
     "static/media/facebook.svg": "/gsip-frontend/static/media/facebook.54b6ed1796ae51e7991a86b99ceb8334.svg",
     "main.cf890fdb.css.map": "/gsip-frontend/static/css/main.cf890fdb.css.map",
-    "main.350e1e78.js.map": "/gsip-frontend/static/js/main.350e1e78.js.map",
+    "main.ae8e1167.js.map": "/gsip-frontend/static/js/main.ae8e1167.js.map",
     "453.c16d9605.chunk.js.map": "/gsip-frontend/static/js/453.c16d9605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf890fdb.css",
-    "static/js/main.350e1e78.js"
+    "static/js/main.ae8e1167.js"
   ]
 }
