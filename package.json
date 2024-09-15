@@ -1,6 +1,6 @@
 {
-  "homepage": "https://krishna0rothe.github.io/frontend",
-  "name": "frontend",
+  "homepage": "https://krishna0rothe.github.io/gsip-frontend",
+  "name": "gsip-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,6 +19,8 @@
     "axios": "^1.7.7",
     "formik": "^2.4.6",
     "gh-pages": "^6.1.1",
+    "install": "^0.13.0",
+    "lucide-react": "^0.441.0",
     "react": "^18.3.1",
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.1",
