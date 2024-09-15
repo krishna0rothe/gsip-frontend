@@ -22,7 +22,7 @@ function App() {
       <Router>
         <Routes>
           {/* Group all gov-related routes under MainLayout */}
-          <Route path="/" element={< HomePage />} />
+          <Route path="/gsip-frontend" element={< HomePage />} />
         </Routes>
           <Routes>
           {/* Group all gov-related routes under MainLayout */}
