@@ -21,6 +21,7 @@ import poonam_mam from "../assets/poonam_mam.jpg";
 import harshit from "../assets/Harshit.jpg";
 import ayush from "../assets/ayush.jpg";
 import diya from "../assets/diya.png";
+import amita_mam from "../assets/amita_mam.jpg";
 
 
 export default function GSIPLandingPage({ theme = "default" }) {
@@ -52,7 +53,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
 
   const mentors = [
     { name: "Prof. Poonam Faldu", role: "Academic Mentor" , src: poonam_mam },
-    { name: "Prof. XYZ", role: "Technical Mentor", src: profile }
+    { name: "Prof. Amita ", role: "Technical Mentor", src: amita_mam }
   ];
 
   return (
