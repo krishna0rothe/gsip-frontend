@@ -46,8 +46,8 @@ export default function GSIPLandingPage({ theme = "default" }) {
     { name: "Dhruvin Patel", role: "Member", position: "Frontend Developer" , src: dhruvin },
     { name: "Harshit Mehta", role: "Member", position: "Research Analyst & Architect", src: harshit },
     { name: "Diya Gandhi", role: "Member", position: "UI/UX Designer" , src: diya },
-    { name: "Ayush Shah", role: "Member", position: "Frontend Developer" , src: ayush },
-    { name: "Manan Suthar", role: "Member", position: "Full Stack Developer", src: profile },
+    { name: "Ayush Shah", role: "Member", position: "Full Stack Developer" , src: ayush },
+    { name: "Manan Suthar", role: "Member", position: "Frontend Developer", src: profile },
   ];
 
   const mentors = [
