@@ -53,7 +53,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
 
   const mentors = [
     { name: "Prof. Poonam Faldu", role: "Academic Mentor" , src: poonam_mam },
-    { name: "Prof. Amita ", role: "Technical Mentor", src: amita_mam }
+    { name: "Prof. Amita Tailor ", role: "Technical Mentor", src: amita_mam }
   ];
 
   return (
