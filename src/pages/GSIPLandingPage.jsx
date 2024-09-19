@@ -517,7 +517,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
           </div>
           <div className="footer-bottom">
             <p>
-              &copy; 2023 Gujarat Startups & Innovation Portal. All rights
+              &copy; 2024 Gujarat Startups & Innovation Portal. All rights
               reserved.
             </p>
           </div>
