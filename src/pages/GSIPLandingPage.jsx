@@ -500,7 +500,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
                 {["facebook", "twitter", "linkedin"].map((social) => (
                   <a
                     key={social}
-                    href={`https://${social}.com/GSIP`}
+                    href={`//https://${social}.com/GSIP`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className={`icon-${social}`}
@@ -517,7 +517,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
           </div>
           <div className="footer-bottom">
             <p>
-              &copy; 2024 Gujarat Startups & Innovation Portal. All rights
+              &copy; 2024 Gujarat Startups & Innovation Portal with SIH2024. All rights
               reserved.
             </p>
           </div>
