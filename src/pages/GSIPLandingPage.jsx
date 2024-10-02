@@ -21,7 +21,8 @@ import poonam_mam from "../assets/poonam_mam.jpg";
 import harshit from "../assets/Harshit.jpg";
 import ayush from "../assets/ayush.jpg";
 import diya from "../assets/diya.png";
-import amita_mam from "../assets/amita_mam.jpg";
+import amita_mam from "../assets/amita_mam.png";
+import manan from "../assets/manan.png"
 
 
 export default function GSIPLandingPage({ theme = "default" }) {
@@ -48,7 +49,7 @@ export default function GSIPLandingPage({ theme = "default" }) {
     { name: "Harshit Mehta", role: "Member", position: "Research Analyst & Architect", src: harshit },
     { name: "Diya Gandhi", role: "Member", position: "UI/UX Designer" , src: diya },
     { name: "Ayush Shah", role: "Member", position: "Full Stack Developer" , src: ayush },
-    { name: "Manan Suthar", role: "Member", position: "Frontend Developer", src: profile },
+    { name: "Manan Suthar", role: "Member", position: "Frontend Developer", src: manan },
   ];
 
   const mentors = [
